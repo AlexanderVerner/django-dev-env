@@ -4,7 +4,7 @@ Use docker to run container
 
 ```bash
 docker-compose build app
-docker-compose run app project
+docker-compose run app
 ```
 ## For run development server:
 ```bash
